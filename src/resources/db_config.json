@@ -1,0 +1,7 @@
+{
+    "db_user": "neondb_owner",
+    "db_pwd": "ev7GPAMi2oIx",
+    "db_host": "ep-dark-resonance-a5rp4fs9.us-east-2.aws.neon.tech",
+    "db_port": "5432",
+    "db_name": "neondb"
+}
